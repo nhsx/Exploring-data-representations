@@ -4,4 +4,4 @@ description: NHSX PhD Internship
 
 
 
-theme: jekyll-theme-minimal
+remote_theme: nhsx/nhsx-io-theme
