@@ -4,7 +4,7 @@
 
 **Need:**  Explore the best representations to gain insight from electronic health records (EHR) and other healthcare data sources.  Using Graph Databases/Algorithms and process mining approaches to better explore EHR data.  Other modern approaches for encoding sequential information would be good to explore e.g. graph embeddings, entity embeddings, etc.  
 
-**Current Knowledge/Examples & Possible Techniques/Approaches:**  Recent work using graph models to build simpler knowledge discovery systems e.g. to model electronic health records for improvements in diagnostic prediction, or to understand negative drug interactions.  This is achieved by storing the information in a format that is closer to reality.  Graph Data Structures, Embeddings, Deep Neural Networks. Scalable and accurate deep learning with electronic health records 
+**Current Knowledge/Examples & Possible Techniques/Approaches:**  Recent work using graph models to build simpler knowledge discovery systems e.g. to model electronic health records for improvements in diagnostic prediction, or to understand negative drug interactions.  This is achieved by storing the information in a format that is closer to reality.  Graph Data Structures, Embeddings, Deep Neural Networks. [Scalable and accurate deep learning with electronic health records](https://www.nature.com/articles/s41746-018-0029-1)
 
 **Related Previous Internship Projects:** n/a as first year of the scheme.
 
